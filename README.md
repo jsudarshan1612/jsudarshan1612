@@ -1,72 +1,56 @@
-<!-- Animated AI Banner -->
+<!-- Dark AI Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudarshan%20Jadhav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:141E30,100:243B55&height=200&section=header&text=Sudarshan%20Jadhav&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">🤖 AI Enthusiast | CSE Student</h1>
-<h3 align="center">Building intelligent systems for the future</h3>
+<h3 align="center">Building intelligent systems with code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Explorer;Backend+Developer;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=45&color=00F7FF">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsudarshan1612&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence;Backend+Developer;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=45&color=00F7FF">
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Computer Science Engineering Student  
-- 🤖 Passionate about **Artificial Intelligence & Backend Systems**  
+- 🤖 Passionate about **Artificial Intelligence & Backend Development**  
 - 📚 Preparing for **GATE 2027** & **CAT 2026**  
-- 🚀 Building AI and automation projects  
+- 🚀 Building real-world AI and automation projects  
 - 🎯 Goal: AI-focused Software Engineer  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-0f2027?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF)
+![Java](https://img.shields.io/badge/Java-141E30?style=for-the-badge&logo=openjdk&logoColor=00F7FF)
+![Python](https://img.shields.io/badge/Python-243B55?style=for-the-badge&logo=python&logoColor=00F7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=00F7FF)
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-141E30?style=for-the-badge&logo=html5&logoColor=00F7FF)
+![CSS3](https://img.shields.io/badge/CSS3-243B55?style=for-the-badge&logo=css3&logoColor=00F7FF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f2027?style=for-the-badge&logo=tailwind-css&logoColor=00F7FF)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-141E30?style=for-the-badge&logo=mysql&logoColor=00F7FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-243B55?style=for-the-badge&logo=mongodb&logoColor=00F7FF)
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 Skill Progress
-```
-AI & Machine Learning   ███████░░░░ 60%
-Backend Development     ██████░░░░░ 50%
-Data Structures & Algo  ████████░░░ 70%
-Frontend Development    █████░░░░░░ 40%
-```
+![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00F7FF)
+![GitHub](https://img.shields.io/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=00F7FF)
+![Linux](https://img.shields.io/badge/Linux-243B55?style=for-the-badge&logo=linux&logoColor=00F7FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f2027?style=for-the-badge&logo=visual-studio-code&logoColor=00F7FF)
 
 ---
 
 ## 🚀 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 AI Personal Assistant | Multi-agent assistant for tasks | Python, LLM |
-| 📚 DSA Solutions | Organized coding solutions | C++, Java |
-| 🗂️ Task Manager API | REST backend with auth | Java, MySQL |
-| 🌐 Full-Stack Web App | Complete web application | JS, MongoDB |
+- 🤖 AI Personal Assistant  
+- 📚 DSA Solutions Repository  
+- 🗂️ Task Manager Backend API  
+- 🌐 Full-Stack Web Application  
 
 ---
 
@@ -85,47 +69,13 @@ Frontend Development    █████░░░░░░ 40%
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsudarshan1612&theme=tokyo-night">
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jsudarshan1612&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
 ## 🤖 AI Quote
-> “The future belongs to those who understand and build with AI.”
+> “The future belongs to those who build it with intelligence and code.”
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,50:141E30,100:0f2027&height=120&section=footer"/>
 </p>
 
-## 🤖 AI Quote
-> “Artificial Intelligence is the new electricity.” – Andrew Ng
-
----
-
-<p align="center">
-  <b>💡 Learning today, building intelligent systems for tomorrow.</b>
-</p>
 
