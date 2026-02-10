@@ -28,20 +28,45 @@
 ![Python](https://img.shields.io/badge/Python-243B55?style=for-the-badge&logo=python&logoColor=00F7FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=00F7FF)
 
+---
+
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-141E30?style=for-the-badge&logo=html5&logoColor=00F7FF)
 ![CSS3](https://img.shields.io/badge/CSS3-243B55?style=for-the-badge&logo=css3&logoColor=00F7FF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f2027?style=for-the-badge&logo=tailwind-css&logoColor=00F7FF)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-141E30?style=for-the-badge&logo=css3&logoColor=00F7FF)
+
+---
+
+### 🧠 AI & Data
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-243B55?style=for-the-badge&logo=tensorflow&logoColor=00F7FF)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0f2027?style=for-the-badge&logo=openai&logoColor=00F7FF)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-141E30?style=for-the-badge&logo=pandas&logoColor=00F7FF)
+
+---
+
+### 🧱 Backend & Core CS
+![Data Structures](https://img.shields.io/badge/Data%20Structures-243B55?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-0f2027?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-141E30?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-243B55?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-0f2027?style=for-the-badge)
+
+---
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-141E30?style=for-the-badge&logo=mysql&logoColor=00F7FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-243B55?style=for-the-badge&logo=mongodb&logoColor=00F7FF)
 
-### ⚙️ Tools
+---
+
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00F7FF)
 ![GitHub](https://img.shields.io/badge/GitHub-141E30?style=for-the-badge&logo=github&logoColor=00F7FF)
 ![Linux](https://img.shields.io/badge/Linux-243B55?style=for-the-badge&logo=linux&logoColor=00F7FF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0f2027?style=for-the-badge&logo=visual-studio-code&logoColor=00F7FF)
+![Postman](https://img.shields.io/badge/Postman-141E30?style=for-the-badge&logo=postman&logoColor=00F7FF)
+
 
 ---
 
