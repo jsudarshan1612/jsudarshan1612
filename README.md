@@ -1,9 +1,7 @@
 <!-- Dark AI Banner -->
 <p align="center">
-  <img src="https://svgshare.com/i/13yL.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:141E30,100:243B55&height=200&section=header&text=Sudarshan%20Jadhav&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
-
-
 
 <h1 align="center"> AI Enthusiast | CSE Student</h1>
 <h3 align="center">Building intelligent systems with code</h3>
