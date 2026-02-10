@@ -15,27 +15,43 @@
 - 🎯 Goal: Become an AI-focused Software Engineer  
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
-### 🧠 Core Skills
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-green?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-blueviolet?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-lightgrey?style=for-the-badge)
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🧠 Core Skills
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2ECC71?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-95A5A6?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 ## 🚀 Current Projects
 - 🤖 **AI Personal Assistant**
 - 📚 **DSA Problem Solving Repository**
