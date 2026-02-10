@@ -1,7 +1,8 @@
 <!-- Dark AI Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=200&section=header&text=SJ%20AI&fontSize=40&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="https://svgshare.com/i/13yL.svg" width="100%" />
 </p>
+
 
 
 <h1 align="center"> AI Enthusiast | CSE Student</h1>
