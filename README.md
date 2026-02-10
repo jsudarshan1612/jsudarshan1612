@@ -23,10 +23,13 @@
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-0f2027?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF)
-![Java](https://img.shields.io/badge/Java-141E30?style=for-the-badge&logo=openjdk&logoColor=00F7FF)
-![Python](https://img.shields.io/badge/Python-243B55?style=for-the-badge&logo=python&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=00F7FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=FF6B6B)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4AFF91)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
 
 ---
 
