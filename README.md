@@ -15,7 +15,6 @@
 ## 🧠 About Me
 - 🎓 Computer Science Engineering Student  
 - 🤖 Passionate about **Artificial Intelligence & Backend Development**  
-- 📚 Preparing for **GATE 2027** & **CAT 2026**  
 - 🚀 Building real-world AI and automation projects  
 - 🎯 Goal: AI-focused Software Engineer  
 
