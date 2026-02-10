@@ -1,20 +1,26 @@
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Sudarshan</h1>
-<h3 align="center">AI Enthusiast | CSE Student | Future Software Engineer</h3>
+<h3 align="center">🤖 AI Enthusiast | CSE Student | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Backend+Developer+in+Progress;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Explorer;Backend+Developer+in+Progress;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=45&color=00F7FF">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jsudarshan1612&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Computer Science Engineering Student  
-- 🤖 Passionate about Artificial Intelligence and Backend Development   
+- 🤖 Passionate about Artificial Intelligence & Backend Development  
+- 📚 Preparing for **GATE 2027** & **CAT 2026**  
 - 🚀 Building real-world AI and automation projects  
 - 🎯 Goal: Become an AI-focused Software Engineer  
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -23,27 +29,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
 
 ### 🧠 Core Skills
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2ECC71?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-95A5A6?style=for-the-badge)
 
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 ### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,10 +50,20 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🚀 Current Projects
+
+## 🚀 Featured Projects
 - 🤖 **AI Personal Assistant**
-- 📚 **DSA Problem Solving Repository**
+- 📚 **DSA Solutions Repository**
 - 🗂️ **Task Manager Backend API**
+- 🌐 **Full-Stack Web App**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsudarshan1612&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsudarshan1612&layout=compact&theme=tokyonight" height="170">
+</p>
 
 ---
 
@@ -76,10 +84,10 @@
 ## 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:jsudarshan1612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -91,5 +99,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsudarshan1612&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <b>💡 Learning today, building intelligent systems for tomorrow.</b>
 </p>
+
