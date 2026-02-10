@@ -23,12 +23,13 @@
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=FF6B6B)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4AFF91)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C%2B%2B-2C5364?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-203A43?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-203A43?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F2027?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 ---
