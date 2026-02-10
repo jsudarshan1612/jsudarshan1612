@@ -1,23 +1,27 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Sudarshan</h1>
-<h3 align="center">🤖 AI Enthusiast | CSE Student | Future Software Engineer</h3>
+<!-- Animated AI Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudarshan%20Jadhav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">🤖 AI Enthusiast | CSE Student</h1>
+<h3 align="center">Building intelligent systems for the future</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Explorer;Backend+Developer+in+Progress;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=45&color=00F7FF">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Explorer;Backend+Developer;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=45&color=00F7FF">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsudarshan1612&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jsudarshan1612&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 Computer Science Engineering Student  
-- 🤖 Passionate about Artificial Intelligence & Backend Development  
+- 🤖 Passionate about **Artificial Intelligence & Backend Systems**  
 - 📚 Preparing for **GATE 2027** & **CAT 2026**  
-- 🚀 Building real-world AI and automation projects  
-- 🎯 Goal: Become an AI-focused Software Engineer  
+- 🚀 Building AI and automation projects  
+- 🎯 Goal: AI-focused Software Engineer  
 
 ---
 
@@ -34,16 +38,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 Core Skills
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2ECC71?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-95A5A6?style=for-the-badge)
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -51,11 +50,23 @@
 
 ---
 
+## 📊 Skill Progress
+```
+AI & Machine Learning   ███████░░░░ 60%
+Backend Development     ██████░░░░░ 50%
+Data Structures & Algo  ████████░░░ 70%
+Frontend Development    █████░░░░░░ 40%
+```
+
+---
+
 ## 🚀 Featured Projects
-- 🤖 **AI Personal Assistant**
-- 📚 **DSA Solutions Repository**
-- 🗂️ **Task Manager Backend API**
-- 🌐 **Full-Stack Web App**
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 AI Personal Assistant | Multi-agent assistant for tasks | Python, LLM |
+| 📚 DSA Solutions | Organized coding solutions | C++, Java |
+| 🗂️ Task Manager API | REST backend with auth | Java, MySQL |
+| 🌐 Full-Stack Web App | Complete web application | JS, MongoDB |
 
 ---
 
@@ -81,17 +92,33 @@
 
 ---
 
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jsudarshan1612&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:jsudarshan1612@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
+
+## 🤖 AI Quote
+> “The future belongs to those who understand and build with AI.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
 ## 🤖 AI Quote
 > “Artificial Intelligence is the new electricity.” – Andrew Ng
