@@ -16,7 +16,7 @@
 - 🎓 Computer Science Engineering Student  
 - 🤖 Passionate about **Artificial Intelligence & Backend Development**  
 - 🚀 Building real-world AI and automation projects  
-- 🎯 Goal: AI-focused 
+- 🎯 Goal: AI-focused Software Engineer
 
 ---
 
